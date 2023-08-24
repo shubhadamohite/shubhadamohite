@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Documents/GitHub/shubhadamohite"
+		},
+		{
+			"path": "../assets"
+		},
+		{
+			"path": "../dist"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "../public"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}

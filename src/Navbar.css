@@ -1,0 +1,39 @@
+/* Navbar.css */
+.nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #333; /* Background color for the navbar */
+}
+
+.nav-item {
+  list-style-type: none;
+  margin: 0;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: rgb(16, 16, 16); /* Link text color */
+  padding: 10px 20px; /* Adjust padding as needed */
+  position: relative; /* Add this */
+}
+
+
+.nav-item:not(:last-child)::after {
+  /* Add a separator line */
+  content: '|';
+  margin-left: 10px;
+  color: rgba(19, 19, 19, 0.5); /* Separator line color */
+}
+
+.nav-link:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+
+.active-link {
+  /* Underline for the active link */
+  text-decoration: underline;
+  /* Add a bottom border for the active link */
+  border-bottom: 2px solid white;
+  font-weight: bold;
+}
