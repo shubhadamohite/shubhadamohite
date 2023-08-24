@@ -61,7 +61,7 @@ function App() {
         </div>
       </div>
         <Routes>
-           <Route path="/" element={<HomeContainer activeLink="home" />} />
+           <Route path="/shubhadamohite" element={<HomeContainer activeLink="home" />} />
            <Route path="/blog" element={<HomeContainer activeLink="blog" />} />
           <Route path="/work" element={<HomeContainer activeLink="work" />} />
           <Route path="/about" element={<HomeContainer activeLink="about" />} />
