@@ -10,7 +10,7 @@ function Navbar() {
       <ul className="fixed flex space-x-2">
         <li className="nav-item">
           <NavLink
-            to="/"
+            to="/shubhadamohite"
             activeClassName="active-link"
             className="nav-link"
           >

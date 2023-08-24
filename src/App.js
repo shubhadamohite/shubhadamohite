@@ -45,7 +45,7 @@ function App() {
           <Navbar />
           {/* <NotionRenderer blockMap={data} /> */}
           </div>
-          <div className='flex flex-row justify-center items-center w-80 mt-56'>
+          <div className='flex flex-row justify-center items-center w-80 mt-40'>
           <p className="mt-10 mr-20  text-[60px] font-semibold antialiased" style={{ fontFamily: 'Times New Roman, serif' }}>Hi there 👋 Shubhada here</p>
           <img
               src={me}

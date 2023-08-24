@@ -6,14 +6,14 @@ function HomeContainer({ activeLink }) {
   let content;
   switch (activeLink) {
     case 'blog':
-      content = <p className='ml-[520px] mt-20 text-lg font-medium ' style={{ fontFamily: 'Times New Roman, serif' }}>Blog Coming Soon</p>;
+      content = <p className='ml-[520px] mt-10 text-lg font-medium ' style={{ fontFamily: 'Times New Roman, serif' }}>Blog Coming Soon</p>;
       break;
     case 'work':
       content = (    <div className='ml-[520px] mt-10 text-lg  font-medium' style={{ fontFamily: 'Times New Roman, serif' }}>
       </div>)
       break;
       case 'about':
-      content = (     <div className='flex flex-col mt-20 ml-[520px] mt-10 mb-20po text-lg  font-medium' style={{ fontFamily: 'Times New Roman, serif' }}>
+      content = (     <div className='flex flex-col mt-20 ml-[520px] mt-8 mb-20 text-lg  font-medium' style={{ fontFamily: 'Times New Roman, serif' }}>
       <div className='font-medium'>
         <p>Education</p>
       </div>
