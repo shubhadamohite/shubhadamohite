@@ -46,7 +46,7 @@ function App() {
           {/* <NotionRenderer blockMap={data} /> */}
           </div>
           <div className='flex flex-row justify-center items-center w-80 mt-56'>
-          <p className="mt-10 mr-20 font-baskerville text-[60px] font-semibold antialiased" style={{ fontFamily: 'Baskerville, Times New Roman, serif' }}>Hi there 👋 Shubhada here</p>
+          <p className="mt-10 mr-20  text-[60px] font-semibold antialiased" style={{ fontFamily: 'Times New Roman, serif' }}>Hi there 👋 Shubhada here</p>
           <img
               src={me}
               alt="Image"
