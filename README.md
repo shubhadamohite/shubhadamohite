@@ -1,5 +1,5 @@
 ### Hi there 👋
-👩‍💻 I’m currently working as a Software Developer at TruWeather Solutions
+👩‍💻 I’m currently seeking full-time opportunities in Software development, if you like my work please reach out to me mohiteshubhada98@gmail.com
 🌱 I’m currently learning AWS fundamentals 
 👯 I’m looking to collaborate on Fullstack projects 
 <!--
